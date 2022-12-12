@@ -2,14 +2,14 @@
 package main_test
 
 import (
-	"bytes"
-	"encoding/json"
+	// "bytes"
+	// "encoding/json"
 	"github.com/andreasmarkmann/simple-api"
 	"log"
-	"net/http"
-	"net/http/httptest"
+	// "net/http"
+	// "net/http/httptest"
 	"os"
-	"strconv"
+	// "strconv"
 	"testing"
 )
 
