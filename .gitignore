@@ -3,6 +3,7 @@
 *.code-workspace
 
 # Binaries for programs and plugins
+simple-api
 *.exe
 *.exe~
 *.dll
