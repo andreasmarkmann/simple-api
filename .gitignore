@@ -2,6 +2,9 @@
 .vscode/
 *.code-workspace
 
+# temporarily ignore test directory
+test/
+
 # Binaries for programs and plugins
 simple-api
 *.exe
